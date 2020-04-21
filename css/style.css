@@ -1,0 +1,31 @@
+html, body {
+	height: 100;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: arial;
+}
+
+#title {
+	text-align: center;
+	color: #686767;
+	font-weight: lighter;
+} 
+
+.speech {
+	margin: 2em 0;
+	text-align: center;
+}
+
+.assessment-container {
+	padding: 1em 0;
+}
+
+#btn-1{ /* EDIT BUTTON 1 HERE */ }
+
+#btn-2{ /* EDIT BUTTON 2 HERE */ }
+
+#btn-3{ /* EDIT BUTTON 3 HERE */ }
+
+#btn-4{ /* EDIT BUTTON 4 HERE */ }
